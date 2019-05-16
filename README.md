@@ -4,3 +4,4 @@ It includes:
 - A Data Cleaning + EDA project about 911 calls
 - An EDA + Machine Learning project about white wines quality
 - A program for studying vocabulary or expressions in English
+- An exercise I did during my current master, which is a sort of sentiment analysis without machine learning
