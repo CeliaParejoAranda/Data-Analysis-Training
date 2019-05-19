@@ -7,3 +7,7 @@ Up until now, it includes:
 - An EDA + Machine Learning project about white wines quality (4)
 
 Feel free to explore them! The numbers indicate the order in which these projects have been done, in case you only wish to browse the most recent ones
+
+Have a nice day,
+
+Celia
