@@ -5,4 +5,5 @@ It includes:
 - A program (game) for studying vocabulary or expressions in English (previously written in a csv file) (2)
 - A Data Cleaning + EDA project about 911 calls (3)
 - An EDA + Machine Learning project about white wines quality (4)
+
 Feel free to explore them! The numbers indicate the order in which these projects have been done, in case you want to see only the most recent ones
