@@ -1,6 +1,6 @@
 # Data-Analysis-and-coding-Training
 Hi, this is my Data Analysis Training (and other coding works) portfolio. 
-It includes:
+Up until now, it includes:
 - An exercise I did during my current master, which is a sort of basic sentiment analysis of tweets without machine learning (1)
 - A program (game) for studying vocabulary or expressions in English (previously written in a csv file) (2)
 - A Data Cleaning + EDA project about 911 calls (3)
