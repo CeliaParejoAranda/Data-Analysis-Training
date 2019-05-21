@@ -1,6 +1,6 @@
 This is a program I created so that memorizing English vocabulary and common expressions for my C1 exam 
 was more exciting. It makes use of a csv file called 'voc' which contains words or phrases in your mother 
-tongue (if Spanish) and in English, each pair of words in one line, separated by a comma. At the beggining 
+tongue (if Spanish) and in English, each pair of words in one line, separated by a comma. At the beginning 
 of the game, you are told to choose wether you wish to translate from Spanish to English, or viceversa.
 
 You start having three 'lives' (attempts). Each time you make a mistake, you are firstly given a second 
