@@ -5,6 +5,7 @@ Up until now, it includes:
 - A program (game) for studying vocabulary or expressions in English (previously written in a csv file). Please take a look at the README file for a deeper explanation (2)
 - A Data Cleaning + EDA project about 911 calls (3)
 - An EDA + Machine Learning project about white wines quality (4)
+- An EDA + Machine Learning project about myopia development in children (5) (not finished)
 
 Feel free to explore them! The numbers indicate the order in which these projects have been done, in case you only wish to browse the most recent ones
 
