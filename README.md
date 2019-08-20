@@ -12,3 +12,5 @@ Feel free to explore them! These projects are listed following the order in whic
 Have a nice day,
 
 Celia
+
+**AUGUST UPDATE**: currently studying a lot! Won't be publishing any new coding work for a while
