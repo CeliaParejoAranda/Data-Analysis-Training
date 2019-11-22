@@ -13,4 +13,6 @@ Have a nice day,
 
 Celia
 
-**AUGUST UPDATE**: currently studying a lot! Won't be publishing any new coding work for a while
+**NOVEMBER UPDATE**: currently working at Metiora and learning a ton! Won't be publishing any new coding work for a while
+
+                                  --> Next goal in mind: Master's Final Project <--
